@@ -1,3 +1,5 @@
--bacon
--eggs
--milk
+- bacon
+- eggs
+- milk
+- apples 
+- bread 
